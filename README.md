@@ -2,7 +2,7 @@
 
 - [Overview](The Project "Birthday-Card")
   - [Screenshot](./images/Screenshot%201.png)
-  - [Links](https://github.com/Pepo946/Tin-Dog.git)
+  - [Links](https://github.com/Pepo946/Birthday-Card.git)
 - [My process](#my-process)
   - [Built with](Html Css)
   - [What I learned](How to dinamcke for the users  )
@@ -33,16 +33,7 @@ First Html i just know from now how to make in icons for my Web site and how to 
         </div>
 ```
 
-Bootstrap
-```html
-<div class="container mb-5 ">
-            <div class="row">
-              <div class="col-lg-3 col-sm-12">
- </div>               
-<div class="row row-cols-1 row-cols-md-3 mt-3 text-center">
-<div class="container col-xxl-8 px-4 pt-5">
-    <ul class="list-unstyled mt-3 mb-4">
-```
+CSS
 ```css
 .gift-img {
     margin: 20px auto;
